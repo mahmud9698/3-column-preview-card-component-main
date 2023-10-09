@@ -12,9 +12,9 @@
         </p>
       </div>
       <div class="mt-16">
-        <button
-          class="bg-very-light-gray hover:bg-bright-orange text-bright-orange hover:text-transparent-white font-font-family-2 py-3.75 px-10 border-2 hover:border-2 border-solid hover:border-solid border-transparent hover:border-white rounded-[50px] cursor-pointer">Learn
-          More</button>
+        <button class="bg-very-light-gray hover:bg-bright-orange text-bright-orange hover:text-transparent-white font-font-family-2 py-3.75 px-10 border-2 hover:border-2 border-solid hover:border-solid border-transparent hover:border-white rounded-[50px] cursor-pointer">
+          Learn More
+        </button>
       </div>
     </div>
     <div class="bg-dark-cyan w-[350px] p-11 <md:w-75 ">
@@ -29,9 +29,9 @@
         </p>
       </div>
       <div class="mt-16">
-        <button
-          class=" bg-very-light-gray hover:bg-dark-cyan text-dark-cyan hover:text-transparent-white font-font-family-2 py-3.75 px-10 border-2 hover:border-2 border-solid hover:border-solid border-transparent hover:border-white rounded-[50px] hover:cursor-pointer">Learn
-          More</button>
+        <button class="bg-very-light-gray hover:bg-dark-cyan text-dark-cyan hover:text-transparent-white font-font-family-2 py-3.75 px-10 border-2 hover:border-2 border-solid hover:border-solid border-transparent hover:border-white rounded-[50px] hover:cursor-pointer">
+          Learn More
+        </button>
       </div>
     </div>
     <div class="bg-very-dark-cyan w-[350px] p-11 <md:w-75">
@@ -47,7 +47,8 @@
       </div>
       <div class="mt-16">
         <button class=" bg-very-light-gray hover:bg-very-dark-cyan text-very-dark-cyan hover:text-transparent-white font-font-family-2 py-3.75 px-10 border-2 hover:border-2 border-solid hover:border-solid border-transparent hover:border-white rounded-[50px] cursor-pointer">
-          Learn More</button>
+          Learn More
+        </button>
       </div>
     </div>
   </div>
