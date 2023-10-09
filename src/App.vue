@@ -46,9 +46,8 @@
         </p>
       </div>
       <div class="mt-16">
-        <button
-          class=" bg-very-light-gray hover:bg-very-dark-cyan text-very-dark-cyan hover:text-transparent-white font-font-family-2 py-3.75 px-10 border-2 hover:border-2 border-solid hover:border-solid border-transparent hover:border-white rounded-[50px] cursor-pointer">Learn
-          More</button>
+        <button class=" bg-very-light-gray hover:bg-very-dark-cyan text-very-dark-cyan hover:text-transparent-white font-font-family-2 py-3.75 px-10 border-2 hover:border-2 border-solid hover:border-solid border-transparent hover:border-white rounded-[50px] cursor-pointer">
+          Learn More</button>
       </div>
     </div>
   </div>
